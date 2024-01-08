@@ -4,7 +4,7 @@
 Soy un Ingeniero en sistemas con un interés en el desarrollo web y la exploración de tecnologías modernas.
 </p>
 
-- 🤓 Actualmente estoy aprendiendo: [ASTRO](https://astro.build/).
+- 🤓 Actualmente aprendiendo: [ASTRO](https://astro.build/).
 
 &nbsp;
 
