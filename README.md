@@ -1,7 +1,7 @@
 ## Hola👋 Soy Allan Estrada
 
 <p align="justify">
-Siento un gran un interés por el desarrollo web, el diseño grafico y la exploración de tecnologías modernas. Aunque mi experiencia profesional en este ámbito está en sus primeras etapas, mi dedicación al aprendizaje autodidacta y la ejecución de proyectos personales me ha permitido adquirir conocimientos básicos en HTML, CSS, JavaScript, además de diversas tecnologías web.
+Soy un Ingeniero en sistemas con un interés en el desarrollo web y la exploración de tecnologías modernas.
 </p>
 
 - 🤓 Actualmente estoy aprendiendo: [ASTRO](https://astro.build/).
